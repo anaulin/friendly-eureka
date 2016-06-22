@@ -1,0 +1,8 @@
+{
+  "name": "Ridiculous and Whimsical",
+  "image": "heroku/go:1.6",
+  "mount_dir": "src/github.com/anaulin/friendly-eureka",
+  "website": "https://github.com/anaulin/friendly-eureka",
+  "repository": "https://github.com/anaulin/friendly-eureka"
+}
+
