@@ -1,1 +1,1 @@
-web: friendly-eureka --logtostderr=true
+bot: friendly-eureka --logtostderr=true
