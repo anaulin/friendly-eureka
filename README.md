@@ -1,7 +1,7 @@
 # friendly-eureka
 
 RaW, the Ridiculous and Whimsical Twitter bot. Because we can always use more
-ridiculousness and whimsy.
+ridiculousness and whimsy. Running live here: https://twitter.com/RidiWhims
 
 To build and run:
 ```bash
